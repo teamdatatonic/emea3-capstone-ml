@@ -1,7 +1,8 @@
 ## Team 3 ML
 
-- Cleaning data
-- training model
+ML_eda.ipynb: Does all the EDA of our dataset and cleans it ready for ML
+ML_datacleaning.ipynb: Just the data cleaning parts of ML_eda.ipynb. Will be made into .py file
 
+Could send the dataset back to GCP to do bqML or AutoML. Or make a script here that trains the price regression model.
 
-add poetry
+n.b poetry environment
